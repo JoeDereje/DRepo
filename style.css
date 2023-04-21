@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     background-color: black;
 }
@@ -9,4 +10,8 @@ body{
 }
 #bio {
     color: white;
+=======
+body {
+    color: lightgreen;
+>>>>>>> feature-2
 }
